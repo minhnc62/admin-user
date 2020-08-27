@@ -1,0 +1,1 @@
+//File sẽ lưu trữ các thông tin để yêu cầu xác thực từ fb, tw, hay google. Bao gồm clientId, secretKey
